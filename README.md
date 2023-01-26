@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+#Blog Web App for my friends to write things on.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This web app is designed for my friends (and hopefully others!) to write whatever they want on it. They can write technical articles about the new ChatGPT features, they can write short stories about fictional characters, or anything they want! (within reason)
 
+This app is also a side project for myself to better understand Javascript and one of it's most popular libraries, React.
 ## Available Scripts
 
 In the project directory, you can run:
