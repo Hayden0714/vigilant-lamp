@@ -1,4 +1,4 @@
-#Blog Web App for my friends to write things on.
+# Blog Web App for my friends to write things on.
 
 This web app is designed for my friends (and hopefully others!) to write whatever they want on it. They can write technical articles about the new ChatGPT features, they can write short stories about fictional characters, or anything they want! (within reason)
 
